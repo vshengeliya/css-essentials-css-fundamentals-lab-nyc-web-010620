@@ -28,18 +28,10 @@ text-align: center;
 
 
 #details div{
-position: fixed;
-  left: 0;
-  bottom: 0;
+  float: left;
   width: 25%;
   background-color: red;
   text-align: center;
-  
-}
-
-div {
-  float: left;
-  
   
 }
 
