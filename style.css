@@ -12,11 +12,11 @@ img{
   margin-right: auto;
 }
 
-/*nav a {*/
-/*  background-color: grey;*/
-/*  margin: 0 auto;*/
-/*  padding:0 10px;*/
-/*}*/
+nav a {
+  background-color: grey;
+  margin: 0 auto;
+  padding:0 10px;
+}
 
 
 #featured-property p {
