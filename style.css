@@ -18,19 +18,16 @@ nav a {
   padding:0 10px;
 }
 
-nav a {
-  background: grey;
-}
-p.featured-property {
+
+#featured-property p {
 text-align: center;
     width: 800px;
+    margin: 0 auto;
 }
-#featured-property{
-  text-align: center}
 
 
 
-#details{
+#details div{
 position: fixed;
   left: 0;
   bottom: 0;
