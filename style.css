@@ -12,10 +12,10 @@ img{
   margin-right: auto;
 }
 
-nav {
-  text-align: center;
-  padding-right:10px;
-  padding-left:10px;
+nav a {
+  background-color: grey;
+  margin: 0 auto;
+  padding:0 10px;
 }
 
 nav a {
