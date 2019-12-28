@@ -28,7 +28,7 @@ text-align: center;
 
 
 #details div{
-  float: left;
+  /*float: left;*/
   width: 25%;
   background-color: red;
   text-align: center;
