@@ -31,8 +31,11 @@ text-align: center;
 
 
 #details{
-display: block;
-background: red;
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
   text-align: center;
 }
 
